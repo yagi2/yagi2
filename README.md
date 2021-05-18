@@ -7,10 +7,14 @@
 
 -----
 
-- A
-- B
-- C
-- D
+I'm a mobile app engineer working in Japan. My hobby is to create mobile apps that solve my inconvenience.  
+On my days off, I like to play games, so I make apps that provide statistics and notes about them, and utility apps.
+
+### ♥ Loves
+- Kotlin <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/600px-Kotlin_Icon.png" width="1.5%" />
+- Android<img src="https://developer.android.com/images/brand/Android_Robot.png" width="2%" /> / iOS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/505px-Apple_logo_black.svg.png" width="2%" />
+- VR🥽
+- Engineering🛠️
 
 -----
 
@@ -27,6 +31,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yagi2&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagi2&theme=tokyonight" width="48%" >
 
-![build](https://github.com/yagi2/yagi2/workflows/build/badge.svg)
+![build](https://github.com/yagi2/yagi2/actions/workflows/blog-post-workflow.yml/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/yagi2/yagi2)
 ![pv](https://pageview.vercel.app/?github_user=yagi2)
