@@ -1,19 +1,27 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-I'm yagi2, Mobile app developer.
-
-### Badges
-<p align="left"> 
-  <a href="https://github.com/yagi2/yagi2/">
-    <img src="https://komarev.com/ghpvc/?username=yagi2" alt="yagi2" />
-  </a>
-  <a href="http://twitter.com/yaginier">
-    <img height="20" src="https://img.shields.io/twitter/follow/yaginier?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/yaginier">
-    <img height="20" src="https://img.shields.io/github/followers/yagi2?label=follow&logo=github&style=flat" />
+<h2 align="center">Hello I'm yagi2.<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h2>
+<p align="center">
+  <a href="https://twitter.com/yaginier">
+    <img src="https://img.shields.io/twitter/follow/yagi2?style=social" alt="yagi2" />
   </a>
 </p>
+
+-----
+
+- A
+- B
+- C
+- D
+
+-----
+
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
   
-### My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagi2&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagi2&layout=compact&theme=tokyonight)  
+### 🏆 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=yagi2&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yagi2&theme=tokyonight" width="48%" >
+
+![build](https://github.com/yagi2/yagi2/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/yagi2/yagi2)
+![pv](https://pageview.vercel.app/?github_user=yagi2)
