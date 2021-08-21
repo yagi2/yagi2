@@ -20,11 +20,11 @@ On my days off, I like to play games, so I make apps that provide statistics and
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [家シーシャのすすめ](https://blog.yagi2.dev/2021/08/21/%e5%ae%b6%e3%82%b7%e3%83%bc%e3%82%b7%e3%83%a3%e3%81%ae%e3%81%99%e3%81%99%e3%82%81/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%25ae%25b6%25e3%2582%25b7%25e3%2583%25bc%25e3%2582%25b7%25e3%2583%25a3%25e3%2581%25ae%25e3%2581%2599%25e3%2581%2599%25e3%2582%2581)
 - [帝京大学 理工学部 情報科学科 通信教育課程に入学しました](https://blog.yagi2.dev/2021/04/21/student-2021-04/?utm_source=rss&utm_medium=rss&utm_campaign=student-2021-04)
 - [2021年4月 水有利古戦場 振り返り](https://blog.yagi2.dev/2021/04/17/grbr-gw-202104/?utm_source=rss&utm_medium=rss&utm_campaign=grbr-gw-202104)
 - [自作マシンを組みました](https://blog.yagi2.dev/2021/03/07/2021-build-own-computer/?utm_source=rss&utm_medium=rss&utm_campaign=2021-build-own-computer)
 - [2021年1月 光有利古戦場 振り返り](https://blog.yagi2.dev/2021/01/23/grbr-gw-202101/?utm_source=rss&utm_medium=rss&utm_campaign=grbr-gw-202101)
-- [2020年の振り返りと2021年の目標](https://blog.yagi2.dev/2020/12/31/looking-back-2020/?utm_source=rss&utm_medium=rss&utm_campaign=looking-back-2020)
 <!-- BLOG-POST-LIST:END -->
   
 ### 🏆 Stats
