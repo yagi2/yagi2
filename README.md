@@ -20,11 +20,11 @@ On my days off, I like to play games, so I make apps that provide statistics and
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Macbook Pro 2021モデルを買いました](https://blog.yagi2.dev/2021/11/27/macbook-pro-2021-m1-pro/?utm_source=rss&utm_medium=rss&utm_campaign=macbook-pro-2021-m1-pro)
 - [2021年9月 火有利古戦場 振り返り](https://blog.yagi2.dev/2021/11/21/grbr-gw-202109/?utm_source=rss&utm_medium=rss&utm_campaign=grbr-gw-202109)
 - [2021年7月 土有利古戦場 振り返り](https://blog.yagi2.dev/2021/09/06/grbr-gw-202107/?utm_source=rss&utm_medium=rss&utm_campaign=grbr-gw-202107)
 - [macOSなマシンのローカル環境構築にmitamaeを導入した](https://blog.yagi2.dev/2021/09/05/macos-local-mitamae/?utm_source=rss&utm_medium=rss&utm_campaign=macos-local-mitamae)
 - [家シーシャのすすめ](https://blog.yagi2.dev/2021/08/21/%e5%ae%b6%e3%82%b7%e3%83%bc%e3%82%b7%e3%83%a3%e3%81%ae%e3%81%99%e3%81%99%e3%82%81/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%25ae%25b6%25e3%2582%25b7%25e3%2583%25bc%25e3%2582%25b7%25e3%2583%25a3%25e3%2581%25ae%25e3%2581%2599%25e3%2581%2599%25e3%2582%2581)
-- [帝京大学 理工学部 情報科学科 通信教育課程に入学しました](https://blog.yagi2.dev/2021/04/21/student-2021-04/?utm_source=rss&utm_medium=rss&utm_campaign=student-2021-04)
 <!-- BLOG-POST-LIST:END -->
   
 ### 🏆 Stats
