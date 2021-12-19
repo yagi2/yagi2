@@ -20,11 +20,11 @@ On my days off, I like to play games, so I make apps that provide statistics and
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FlutterでサクッとAPIリクエストをする方法](https://blog.yagi2.dev/2021/12/19/flutter-http-json/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-http-json)
 - [2021年11月 風有利古戦場 振り返り](https://blog.yagi2.dev/2021/12/19/grbr-gw-202111/?utm_source=rss&utm_medium=rss&utm_campaign=grbr-gw-202111)
 - [転職しました](https://blog.yagi2.dev/2021/12/01/change-job-2021-12/?utm_source=rss&utm_medium=rss&utm_campaign=change-job-2021-12)
 - [Macbook Pro 2021モデルを買いました](https://blog.yagi2.dev/2021/11/27/macbook-pro-2021-m1-pro/?utm_source=rss&utm_medium=rss&utm_campaign=macbook-pro-2021-m1-pro)
 - [2021年9月 火有利古戦場 振り返り](https://blog.yagi2.dev/2021/11/21/grbr-gw-202109/?utm_source=rss&utm_medium=rss&utm_campaign=grbr-gw-202109)
-- [2021年7月 土有利古戦場 振り返り](https://blog.yagi2.dev/2021/09/06/grbr-gw-202107/?utm_source=rss&utm_medium=rss&utm_campaign=grbr-gw-202107)
 <!-- BLOG-POST-LIST:END -->
   
 ### 🏆 Stats
