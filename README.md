@@ -1,36 +1,28 @@
-<h2 align="center">Hello I'm yagi2.<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h2>
+<h2 align="center">Hello I'm yagi2.<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 <p align="center">
   <a href="https://twitter.com/yaginier">
     <img src="https://img.shields.io/twitter/follow/yaginier?style=social" alt="yagi2" />
   </a>
 </p>
 
------
+</h2>
 
-I'm a mobile app engineer working in Japan. My hobby is to create mobile apps that solve my inconvenience.  
-On my days off, I like to play games, so I make apps that provide statistics and notes about them, and utility apps.
+Hi, I'm mainly Android native app developer.
 
-### ♥ Loves
-- Kotlin <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/600px-Kotlin_Icon.png" width="1.5%" />
-- Android<img src="https://developer.android.com/images/brand/Android_Robot.png" width="2%" /> / iOS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/505px-Apple_logo_black.svg.png" width="2%" />
-- VR🥽
-- Engineering🛠️
+### ♥ Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=androidstudio,apple,aws,dart,docker,firebase,flutter,gcp,git,github,githubactions,go,gradle,graphql,idea,java,kotlin,kubernetes,postgres,react,reactivex,swift,terraform,ts" />
 
 -----
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [写真で振り返る2021年](https://blog.yagi2.dev/2021/12/31/looking-back-2021/?utm_source=rss&utm_medium=rss&utm_campaign=looking-back-2021)
-- [FlutterでサクッとAPIリクエストをする方法](https://blog.yagi2.dev/2021/12/19/flutter-http-json/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-http-json)
-- [2021年11月 風有利古戦場 振り返り](https://blog.yagi2.dev/2021/12/19/grbr-gw-202111/?utm_source=rss&utm_medium=rss&utm_campaign=grbr-gw-202111)
-- [転職しました](https://blog.yagi2.dev/2021/12/01/change-job-2021-12/?utm_source=rss&utm_medium=rss&utm_campaign=change-job-2021-12)
-- [Macbook Pro 2021モデルを買いました](https://blog.yagi2.dev/2021/11/27/macbook-pro-2021-m1-pro/?utm_source=rss&utm_medium=rss&utm_campaign=macbook-pro-2021-m1-pro)
-<!-- BLOG-POST-LIST:END -->
   
 ### 🏆 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=yagi2&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yagi2&theme=tokyonight" width="48%" >
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagi2&layout=compact&langs_count=8&theme=github_dark&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yagi2&count_private=true&show_icons=true&theme=github_dark" />
+</p>
 
-![build](https://github.com/yagi2/yagi2/actions/workflows/blog-post-workflow.yml/badge.svg)
+![trophy](https://github-profile-trophy.vercel.app/?username=yagi2&theme=darkhub)
+
+### 📖 Posts
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/yagi2/yagi2)
 ![pv](https://pageview.vercel.app/?github_user=yagi2)
