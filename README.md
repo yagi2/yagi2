@@ -17,6 +17,11 @@ Hi, I'm mainly Android native app developer.
 
 ## 📖 Posts
 <!-- BLOG-POST-LIST:START -->
+- [poached-eggsを買った話](https://note.yagi2.dev/posts/keyboard-poached-eggs)
+- [Street Fighter VIの対戦データを分析してみた](https://note.yagi2.dev/posts/street-fighter-vi-analytics)
+- [Golangにおける型アサーションと型キャスト](https://note.yagi2.dev/posts/golang-type-assertion-cast)
+- [荻窪で偶然出会っためちゃめちゃ濃い喫茶店](https://note.yagi2.dev/posts/ogikubo-supreme-cafe)
+- [astro-notion-blogで簡単にアウトプットできるようにしてみた](https://note.yagi2.dev/posts/create-note-with-astro-notion-blog)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yagi2/yagi2)
