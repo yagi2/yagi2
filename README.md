@@ -16,7 +16,8 @@ Hi, I'm mainly Android native app developer.
 ![trophy](https://github-profile-trophy.vercel.app/?username=yagi2&theme=darkhub)
 
 ## 📖 Posts
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yagi2/yagi2)
 ![pv](https://pageview.vercel.app/?github_user=yagi2)
