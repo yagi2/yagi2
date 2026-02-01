@@ -12,14 +12,6 @@ Hi, I'm mainly Android native app developer.
 | [Aegis Planner](https://aegis-planner.yagi2.app) | Mitigation planner for FFXIV raids (Japanese only) |
 | [Watch Together](https://wt.yagi2.app) | Lightweight and stable YouTube watch party web app |
 
-## 🏆 Stats
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagi2&layout=compact&langs_count=8&theme=github_dark&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yagi2&count_private=true&show_icons=true&theme=github_dark" />
-</p>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=yagi2&theme=darkhub)
-
 ## 📖 Posts
 <!-- BLOG-POST-LIST:START -->
 - [poached-eggsを買った話](https://note.yagi2.dev/posts/keyboard-poached-eggs)
@@ -30,4 +22,3 @@ Hi, I'm mainly Android native app developer.
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yagi2/yagi2)
-![pv](https://pageview.vercel.app/?github_user=yagi2)
