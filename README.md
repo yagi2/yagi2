@@ -9,7 +9,7 @@ Hi, I'm mainly Android native app developer.
 ## 🌐 Web Apps
 | Name | Description |
 |------|-------------|
-| [Aegis Planner](https://aegis-planner.yagi2.app) | Mitigation planner for FFXIV raids (Japanese not supported yet) |
+| [Aegis Planner](https://aegis-planner.yagi2.app) | Mitigation planner for FFXIV raids (Japanese only) |
 | [Watch Together](https://wt.yagi2.app) | Lightweight and stable YouTube watch party web app |
 
 ## 🏆 Stats
