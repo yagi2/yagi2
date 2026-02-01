@@ -6,7 +6,12 @@ Hi, I'm mainly Android native app developer.
 ## ♥ Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=androidstudio,apple,aws,dart,docker,firebase,flutter,gcp,git,github,githubactions,go,gradle,graphql,idea,java,kotlin,kubernetes,postgres,react,reactivex,swift,terraform,ts" />
 
-  
+## 🌐 Web Apps
+| Name | Description |
+|------|-------------|
+| [Aegis Planner](https://aegis-planner.yagi2.app) | Mitigation planner for FFXIV raids (Japanese not supported yet) |
+| [Watch Together](https://wt.yagi2.app) | Lightweight and stable YouTube watch party web app |
+
 ## 🏆 Stats
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagi2&layout=compact&langs_count=8&theme=github_dark&show_icons=true" />
