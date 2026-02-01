@@ -1,5 +1,4 @@
-## Hello I'm yagi2 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
-<a href="https://twitter.com/yaginier"> <img src="https://img.shields.io/twitter/follow/yaginier?style=social" alt="yagi2" /></a>
+## Hello I'm yagi2 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
 Hi, I'm mainly Android native app developer.
 
