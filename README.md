@@ -37,6 +37,7 @@
 |------|-------------|
 | [Aegis Planner](https://aegis-planner.yagi2.app) | Mitigation planner for FFXIV raids (Japanese only) |
 | [Watch Together](https://wt.yagi2.app) | Lightweight and stable YouTube watch party web app |
+| [PokeBattleBook](https://pokebattlebook.yagi2.app) | One-handed battle log tracker for Pokémon Champions (Japanese only) |
 
 ## 📖 Posts
 <!-- BLOG-POST-LIST:START -->
